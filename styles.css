@@ -316,13 +316,13 @@ input{
 @media(max-width: 800px){
     .footers{
         width: 50%;
-        margin-bottom: 30px;
+        margin-bottom: 1rem;
     }
 }
 
 @media(max-width: 560px){
     .footers{
         width: 200%;
-        margin-bottom: 30px;
+        margin-bottom: 1rem;
     }
 }
